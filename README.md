@@ -44,6 +44,8 @@ Tools:        Git  Web Scraping  CLI Tools
 ## 📫 Connect
 
 - **GitHub:** [@canekremdura](https://github.com/canekremdura)
+- **LinkedIn:** [can-ekrem-dura](https://www.linkedin.com/in/can-ekrem-dura-77508749/)
+- **X (Twitter):** [@CanEkremDura](https://x.com/CanEkremDura)
 - **Location:** Türkiye 🇹🇷
 
 ---
