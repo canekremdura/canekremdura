@@ -9,6 +9,7 @@ I build **Python automation bots** and **WordPress/WooCommerce plugins** that so
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [📱 Stylist AI](https://play.google.com/store/apps/details?id=com.stylist.ai) | AI-powered hairstyle app on Google Play | React Native |
 | [📊 csv-to-json-cli](https://github.com/canekremdura/csv-to-json-cli) | CLI tool to convert CSV files to JSON | Python |
 | [⚽ Mackolik-Bot](https://github.com/canekremdura/Mackolik-Bot) | Football match data scraper | Python |
 | [🏇 Tjk-Bot](https://github.com/canekremdura/Tjk-Bot) | Horse racing results bot | Python |
@@ -23,7 +24,8 @@ I build **Python automation bots** and **WordPress/WooCommerce plugins** that so
 
 ```
 Languages:    Python  ████████████░░  PHP
-Frontend:     React   ████████░░░░░░  Basic
+Frontend:     React   ██████████████░░  Advanced
+Mobile:       React Native  (Published on Google Play)
 E-commerce:   WordPress / WooCommerce
 Databases:    SQLite  MySQL
 Tools:        Git  Web Scraping  CLI Tools
@@ -49,8 +51,9 @@ Tools:        Git  Web Scraping  CLI Tools
 ## 💡 Currently Working On
 
 - 🔭 Improving automation bots
-- 🌱 Learning new web technologies
-- 💬 Open to collaboration on Python & PHP projects
+- 📱 Mobile app development with React Native
+- 🤖 AI/ML integration in mobile apps
+- 💬 Open to collaboration on Python, PHP & React Native projects
 
 ---
 
