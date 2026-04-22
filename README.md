@@ -44,7 +44,7 @@ Tools:        Git  Web Scraping  CLI Tools
 ## 📫 Connect
 
 - **GitHub:** [@canekremdura](https://github.com/canekremdura)
-- **Location:** Turkey 🇹🇷
+- **Location:** Türkiye 🇹🇷
 
 ---
 
