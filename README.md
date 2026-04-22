@@ -9,7 +9,7 @@ I build **Python automation bots** and **WordPress/WooCommerce plugins** that so
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📱 Stylist AI](https://play.google.com/store/apps/details?id=com.stylist.ai) | AI-powered hairstyle app on Google Play | React Native |
+| [📱 Stylist AI](https://play.google.com/store/apps/details?id=com.stylist.ai) | AI-powered virtual try-on & outfit planner | React Native |
 | [📊 csv-to-json-cli](https://github.com/canekremdura/csv-to-json-cli) | CLI tool to convert CSV files to JSON | Python |
 | [⚽ Mackolik-Bot](https://github.com/canekremdura/Mackolik-Bot) | Football match data scraper | Python |
 | [🏇 Tjk-Bot](https://github.com/canekremdura/Tjk-Bot) | Horse racing results bot | Python |
