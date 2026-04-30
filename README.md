@@ -1,7 +1,20 @@
-# 👋 Hi, I'm Can Ekrem Dura
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Can%20Ekrem%20Dura!&fontSize=50&animation=fadeIn" alt="Header Banner" />
+</div>
 
-### 🎯 What I Do
-I build **Python automation bots** and **WordPress/WooCommerce plugins** that solve real-world problems. Passionate about web scraping, data extraction, and e-commerce solutions.
+<h3 align="center">Python Automation | WordPress / WooCommerce | React & Mobile Dev</h3>
+
+<p align="center">
+  I build <strong>Python automation bots</strong>, robust <strong>WordPress/WooCommerce plugins</strong>, and modern <strong>Mobile Applications</strong> that solve real-world problems. Passionate about web scraping, data extraction, and e-commerce solutions.
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,typescript,react,wordpress,mysql,sqlite,git,bash&perline=10" />
+</p>
 
 ---
 
@@ -9,56 +22,41 @@ I build **Python automation bots** and **WordPress/WooCommerce plugins** that so
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📱 Stylist AI](https://play.google.com/store/apps/details?id=com.stylist.ai) | AI-powered virtual try-on & outfit planner | React Native |
-| [📊 csv-to-json-cli](https://github.com/canekremdura/csv-to-json-cli) | CLI tool to convert CSV files to JSON | Python |
-| [⚽ Mackolik-Bot](https://github.com/canekremdura/Mackolik-Bot) | Football match data scraper | Python |
-| [🏇 Tjk-Bot](https://github.com/canekremdura/Tjk-Bot) | Horse racing results bot | Python |
-| [🛒 wp-custom-variation-swatches](https://github.com/canekremdura/wp-custom-variation-swatches) | WooCommerce product swatches | PHP |
-| [🔍 WooCommerce-AJAX-Popup-Search](https://github.com/canekremdura/WooCommerce-AJAX-Popup-Search) | AJAX search popup for WooCommerce | PHP |
-| [📄 LMS-REACT-PAGE-BUILDER](https://github.com/canekremdura/LMS-REACT-PAGE-BUILDER) | Dynamic page builder for LMS | React, PHP |
-| [🗄️ sqlite-to-mysql-main-fix](https://github.com/canekremdura/sqlite-to-mysql-main-fix) | SQLite to MySQL converter | Python |
+| 📱 **[Stylist AI](https://play.google.com/store/apps/details?id=com.stylist.ai)** | AI-powered virtual try-on & outfit planner (Live on Play Store) | `React Native` |
+| ⚽ **[Mackolik-Bot](https://github.com/canekremdura/Mackolik-Bot)** | Live football match data & statistics scraper | `Python`, `Selenium` |
+| 🏇 **[Tjk-Bot](https://github.com/canekremdura/Tjk-Bot)** | Comprehensive horse racing results & odds extractor | `Python`, `Selenium` |
+| 🛒 **[WP Custom Swatches](https://github.com/canekremdura/wp-custom-variation-swatches)** | Beautiful custom variation swatches for WooCommerce | `PHP`, `WordPress` |
+| 🔍 **[WooCommerce AJAX Search](https://github.com/canekremdura/WooCommerce-AJAX-Popup-Search)** | Real-time AJAX-powered product search popup | `PHP`, `JS` |
+| 📄 **[LMS Page Builder](https://github.com/canekremdura/Lms-react-page-builder)** | Dynamic component-based frontend page builder for LMS | `React`, `TS` |
+| 📊 **[csv-to-json-cli](https://github.com/canekremdura/csv-to-json-cli)** | Fast CLI tool to convert CSV files to structured JSON | `Python` |
+| 🗄️ **[sqlite-to-mysql](https://github.com/canekremdura/sqlite-to-mysql-main-fix)** | Automated SQLite database to MySQL SQL dump converter | `Python` |
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Analytics
 
-```
-Languages:    Python  ████████████░░  PHP
-Frontend:     React   ██████████████░░  Advanced
-Mobile:       React Native  (Published on Google Play)
-E-commerce:   WordPress / WooCommerce
-Databases:    SQLite  MySQL
-Tools:        Git  Web Scraping  CLI Tools
-```
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=canekremdura&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canekremdura&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 📫 Connect
-
-- **GitHub:** [@canekremdura](https://github.com/canekremdura)
-- **LinkedIn:** [can-ekrem-dura](https://www.linkedin.com/in/can-ekrem-dura-77508749/)
-- **X (Twitter):** [@CanEkremDura](https://x.com/CanEkremDura)
-- **Location:** Türkiye 🇹🇷
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=canekremdura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canekremdura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
 ---
 
 ## 💡 Currently Working On
-
-- 🔭 Improving automation bots
-- 📱 Mobile app development with React Native
-- 🤖 AI/ML integration in mobile apps
-- 💬 Open to collaboration on Python, PHP & React Native projects
+- 🔭 Building and improving intelligent automation bots.
+- 📱 Enhancing mobile app experiences with React Native.
+- 🤖 Exploring AI/ML integrations for practical applications.
+- 💬 I'm open to freelance opportunities and collaborations on Python, PHP & React projects.
 
 ---
 
+## 📫 Let's Connect
+
 <p align="center">
-<em>Thanks for visiting my profile! Feel free to check out my projects.</em>
+  <a href="https://www.linkedin.com/in/can-ekrem-dura-77508749/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/CanEkremDura"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
+
+<p align="center">
+  <em>Thanks for dropping by! Don't forget to ⭐ the repositories you find useful.</em>
 </p>
