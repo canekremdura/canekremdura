@@ -37,8 +37,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canekremdura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canekremdura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=canekremdura&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=canekremdura&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=canekremdura&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 ---
