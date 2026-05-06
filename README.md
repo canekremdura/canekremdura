@@ -22,6 +22,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🛣️ **[HGS Borç Sorgulama](https://github.com/canekremdura/hgs-borc-sorgulama)** | Plate-based HGS toll debt query with FastAPI & React Native | `Python`, `FastAPI`, `React Native` |
 | 📱 **[Stylist AI](https://play.google.com/store/apps/details?id=com.stylist.ai)** | AI-powered virtual try-on & outfit planner (Live on Play Store) | `React Native` |
 | ⚽ **[Mackolik-Bot](https://github.com/canekremdura/Mackolik-Bot)** | Live football match data & statistics scraper | `Python`, `Selenium` |
 | 🏇 **[Tjk-Bot](https://github.com/canekremdura/Tjk-Bot)** | Comprehensive horse racing results & odds extractor | `Python`, `Selenium` |
@@ -43,6 +44,7 @@
 ---
 
 ## 💡 Currently Working On
+- 🛣️ HGS Borç Sorgulama — toll debt query platform (FastAPI + React Native)
 - 🔭 Building and improving intelligent automation bots.
 - 📱 Enhancing mobile app experiences with React Native.
 - 🤖 Exploring AI/ML integrations for practical applications.
