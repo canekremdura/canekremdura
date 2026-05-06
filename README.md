@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Can%20Ekrem%20Dura!&fontSize=50&animation=fadeIn" alt="Header Banner" />
 </div>
 
-<h3 align="center">Python Automation | WordPress / WooCommerce | React & Mobile Dev</h3>
+<h3 align="center">Python Automation | PHP | React & Mobile Dev</h3>
 
 <p align="center">
-  I build <strong>Python automation bots</strong>, robust <strong>WordPress/WooCommerce plugins</strong>, and modern <strong>Mobile Applications</strong> that solve real-world problems. Passionate about web scraping, data extraction, and e-commerce solutions.
+  I build <strong>Python automation bots</strong>, robust <strong>PHP/WordPress plugins</strong>, and modern <strong>Mobile Applications</strong> that solve real-world problems. Passionate about web scraping, data extraction, and e-commerce solutions.
 </p>
 
 ---
